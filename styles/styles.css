@@ -1,0 +1,27 @@
+h1 {
+color: blue;
+}
+
+img {
+    width: 250px;
+    height: auto;
+}
+
+body{
+background-color: violet;
+margin: 0 auto;
+text-align: center;
+}
+
+#titleBox {
+background-color: antiquewhite;
+margin: 30px;
+border: 2px solid white;
+
+}
+
+.listBox {
+background-color: aquamarine;
+margin: 35px;
+border: O auto;
+}
