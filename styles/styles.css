@@ -1,5 +1,5 @@
 h1 {
-color: blue;
+color: ;
 }
 
 img {
@@ -24,4 +24,23 @@ border: 2px solid white;
 background-color: aquamarine;
 margin: 35px;
 border: O auto;
+}
+
+.listBoxIngredients{
+background-color: aquamarine;
+margin: 35px;
+border: 1px dotted pink;
+}
+
+.listBoxMethod{
+background-color: green;
+margin: 35px;
+border: 1px;
+
+}
+
+.list{
+background-color: blueviolet;
+color: white;
+font: bold;
 }
